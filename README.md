@@ -1,2 +1,1 @@
-# Prepcourse-CS
-Repositorio de prueba-curso
+Este proyecto es una prueba
